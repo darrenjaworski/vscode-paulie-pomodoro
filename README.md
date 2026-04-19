@@ -62,6 +62,10 @@ You can access these commands from the Command Palette or via the webview contro
 
 ## Release Notes
 
+### 1.0.7
+
+- chore: update dev dependencies to patch security advisories
+
 ### 1.0.6
 
 - chore: update readme

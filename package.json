@@ -3,7 +3,7 @@
   "displayName": "Paulie Pomodoro",
   "description": "Hey Paulie, a pomodoro timer in VS Code.",
   "publisher": "darrenjaworski",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "icon": "icon.png",
   "license": "MIT",
   "engines": {
