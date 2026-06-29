@@ -14,5 +14,6 @@ vsc-extension-quickstart.md
 **/.vscode-test.*
 .claude/**
 .github/**
+CLAUDE.md
 npm-upgrade-summary.md
 ROADMAP.md
