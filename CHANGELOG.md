@@ -2,6 +2,12 @@
 
 All notable changes to the "paulie-pomodoro" extension will be documented in this file.
 
+## [1.0.8]
+
+- chore: resolve npm audit advisories (shell-quote, js-yaml)
+- chore: pin Node 24 LTS and bump @types/node to 24.x
+- docs: remove unsupported marketplace badges from readme
+
 ## [1.0.7]
 
 - chore: update dev dependencies to patch security advisories
