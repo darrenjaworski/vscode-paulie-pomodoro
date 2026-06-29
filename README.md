@@ -2,12 +2,6 @@
 
 A beautiful, theme-aware Pomodoro timer for VS Code, designed to help you stay focused and productive. "Hey Paulie! Paulie. More wine."
 
----
-
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/darrenjaworski.paulie-pomodoro?color=blue&logo=visual-studio)](https://marketplace.visualstudio.com/items?itemName=darrenjaworski.paulie-pomodoro&WT.mc_id=darrenjaworski)
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/darrenjaworski.paulie-pomodoro?logo=visualstudio)](https://marketplace.visualstudio.com/items?itemName=darrenjaworski.paulie-pomodoro&WT.mc_id=darrenjaworski)
-[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/darrenjaworski.paulie-pomodoro?logo=visualstudio)](https://marketplace.visualstudio.com/items?itemName=darrenjaworski.paulie-pomodoro&WT.mc_id=darrenjaworski)
-
 ## Installation
 
 Install this extension from the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=DarrenJaworski.paulie-pomodoro).
