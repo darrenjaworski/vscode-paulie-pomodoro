@@ -1,5 +1,8 @@
 # Paulie Pomodoro
 
+[![CI](https://github.com/darrenjaworski/vscode-paulie-pomodoro/actions/workflows/ci.yml/badge.svg)](https://github.com/darrenjaworski/vscode-paulie-pomodoro/actions/workflows/ci.yml)
+[![Release](https://github.com/darrenjaworski/vscode-paulie-pomodoro/actions/workflows/release.yml/badge.svg)](https://github.com/darrenjaworski/vscode-paulie-pomodoro/actions/workflows/release.yml)
+
 A beautiful, theme-aware Pomodoro timer for VS Code, designed to help you stay focused and productive. "Hey Paulie! Paulie. More wine."
 
 ## Installation
@@ -26,7 +29,7 @@ With VS Code open, launch VS Code Quick Open (`Ctrl+P` on Windows/Linux or `Cmd(
 - **Optional Notifications**: Enable/disable notifications when sessions end.
 - **Automatically switch session**: Automatically switch sessions and leave timer running.
 
-![Preview](https://raw.githubusercontent.com/darrenjaworski/paulie-pomodoro/refs/heads/main/paulie-pomodoro-preview.png)
+![Preview](https://raw.githubusercontent.com/darrenjaworski/vscode-paulie-pomodoro/refs/heads/main/paulie-pomodoro-preview.png)
 
 ## Requirements
 
