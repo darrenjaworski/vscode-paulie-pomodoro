@@ -50,6 +50,8 @@ When cutting a release, **`CHANGELOG.md` and the README's "Release Notes" sectio
 1. `npm version patch --no-git-tag-version` (bumps `package.json` + lockfile).
 2. Add the matching entry to both `CHANGELOG.md` and `README.md`.
 3. Commit as `chore: release x.y.z` (repo uses Conventional Commits).
-4. `npm run package-vsix`, then tag `vX.Y.Z` and create a GitHub release with the `.vsix` attached.
+4. Push, then push a `vX.Y.Z` tag — the Release workflow runs the kitchen-sink, packages the `.vsix`, and creates the GitHub release with it attached.
 
-Note: the git `origin` still points at the old `paulie-pomodoro` repo name; GitHub redirects to `vscode-paulie-pomodoro`.
+The Marketplace rejects icons over 1 MB; keep `icon.png` small (256×256 is plenty).
+
+Note: the GitHub repo is `darrenjaworski/vscode-paulie-pomodoro` (renamed from `paulie-pomodoro`; GitHub redirects the old name).

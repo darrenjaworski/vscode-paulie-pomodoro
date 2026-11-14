@@ -56,6 +56,15 @@ You can access these commands from the Command Palette or via the webview contro
 
 ## Release Notes
 
+### 1.0.10
+
+- fix: shrink extension icon to 256×256 (45 KB) — the 1.46 MB icon exceeded the Marketplace's 1 MB limit
+
+### 1.0.9
+
+- chore: update dependencies (TypeScript 6, ESLint 10, typescript-eslint 8.72, esbuild 0.28, @vscode/test-electron 3)
+- ci: add CI workflow (checks, integration tests, `.vsix` packaging) and tag-triggered GitHub Release workflow
+
 ### 1.0.8
 
 - chore: resolve npm audit advisories (shell-quote, js-yaml)
